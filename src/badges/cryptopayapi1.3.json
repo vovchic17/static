@@ -1,7 +1,7 @@
 {
 	"label": "Crypto Pay API",
 	"message": "1.3",
-	"logoSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill-rule=\"evenodd\" clip-rule=\"evenodd\" image-rendering=\"optimizeQuality\" shape-rendering=\"geometricPrecision\" text-rendering=\"geometricPrecision\" viewBox=\"0 0 240 240\"><path fill=\"#44a3dd\" d=\"M105 0h30c58 11 93 46 105 105v30c-12 58-47 93-105 105h-30C46 228 11 193 0 135v-30C11 46 46 11 105 0Z\"/><path fill=\"#bde4f6\" d=\"m121 118-35 63-7 4-8-6-49-91c-1-4 0-7 3-10 24-1 48-1 72 1l22 38 2 1Z\"/><path fill=\"#fdfefe\" d=\"m79 185 7-4a371954 371954 0 0 1 56-101l4-2h69c4 4 5 9 0 15l-48 88-7 4H79Z\"/></svg>",
+	"logoSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill-rule=\"evenodd\" clip-rule=\"evenodd\" image-rendering=\"optimizeQuality\" shape-rendering=\"geometricPrecision\" text-rendering=\"geometricPrecision\" viewBox=\"0 0 256 256\"><path fill=\"#44a3dd\" d=\"M105 0h30c58 11 93 46 105 105v30c-12 58-47 93-105 105h-30C46 228 11 193 0 135v-30C11 46 46 11 105 0Z\"/><path fill=\"#bde4f6\" d=\"m121 118-35 63-7 4-8-6-49-91c-1-4 0-7 3-10 24-1 48-1 72 1l22 38 2 1Z\"/><path fill=\"#fdfefe\" d=\"m79 185 7-4a371954 371954 0 0 1 56-101l4-2h69c4 4 5 9 0 15l-48 88-7 4H79Z\"/></svg>",
 	"logoWidth": 10,
 	"labelColor": "grey",
 	"color": "blue"
