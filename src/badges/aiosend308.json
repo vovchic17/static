@@ -1,0 +1,8 @@
+{
+  "label": "aiosend",
+  "message": "v3.0.8",
+  "logoSvg": "<svg width=\"58\" height=\"51\" viewBox=\"0 0 58 51\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M0.811241 28.7281C-0.270413 27.6643 -0.270414 25.9395 0.811239 24.8756L25.2926 0.797866C26.3742 -0.265957 28.1279 -0.265955 29.2096 0.797868L55.6494 26.8018L33.6162 48.4718C30.1889 51.8427 24.3133 51.8427 20.8859 48.4718L0.811241 28.7281Z\" fill=\"url(#paint0_linear_198_548)\"/><path d=\"M21.3756 23.9125C20.2939 22.8487 20.2939 21.1239 21.3756 20.0601L39.2718 2.45888C40.3534 1.39506 42.1071 1.39506 43.1888 2.45888L55.4295 14.4978C58.8568 17.8686 58.8568 23.6473 55.4295 27.0182L33.6162 48.4718C37.0436 45.1009 37.0436 39.3223 33.6162 35.9514L21.3756 23.9125Z\" fill=\"url(#paint1_linear_198_548)\"/><defs><linearGradient id=\"paint0_linear_198_548\" x1=\"-20.4759\" y1=\"-20.1384\" x2=\"48.855\" y2=\"50.3546\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"white\"/><stop offset=\"1\" stop-color=\"#4DB2FF\"/></linearGradient><linearGradient id=\"paint1_linear_198_548\" x1=\"51.5125\" y1=\"10.6453\" x2=\"23.8025\" y2=\"38.8198\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#EAF4FA\"/><stop offset=\"1\" stop-color=\"white\"/></linearGradient></defs></svg>",
+  "logoWidth": 10,
+  "labelColor": "#03101e",
+  "color": "#4db2ff"
+}
